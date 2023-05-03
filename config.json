@@ -1,0 +1,12 @@
+{
+    "token": "Nzg5OTU3MDE5NzI1NDYzNjEy.GvuArL.hU3A3iGiOcxaYFTawHxO0XTXj4MLY9lEda6GBs",
+    "prefix": "p.",
+    "owners": ["ID_właściciela_bota"],
+    "status": {
+      "text": "p.pomoc",
+      "type": "PLAYING"
+    },
+    "mongoURI": "mongodb://localhost:27017/nazwa_bazy_danych",
+    "googleAPIKey": "Twój_klucz_API_do_usługi_Google"
+  }
+  
